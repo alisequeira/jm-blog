@@ -69,5 +69,14 @@ pricing:
   heading: Nicasource is the best!
   description: NicaSource is an engineering agency based in Managua, Nicaragua. We
     are composed of web engineers and experienced quality assurance testers.
-  plans: []
+  plans:
+    - plan: NicaSource is an engineering agency based in Managua, Nicaragua. We are
+        composed of web engineers and experienced quality assurance testers.
+      price: "50"
+      description: NicaSource is an engineering agency based in Managua, Nicaragua. We
+        are composed of web engineers and experienced quality assurance testers.
+      items:
+        - NicaSource is an engineering agency based in Managua
+        - Nicaragua. We are composed of web engineers and experienced quality
+          assurance testers.
 ---
