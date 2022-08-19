@@ -1,20 +1,16 @@
 ---
 templateKey: index-page
-title: Just Testing if this works
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: really hope this works
+title: We are Nicasource
+image: /img/webcam-backing04.png
+heading: Nicasource is the best!
+subheading: We partner up to match the perfect talent to the right clients.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Why us?
+  description: NicaSource is an engineering agency based in Managua, Nicaragua. We
+    are composed of web engineers and experienced quality assurance testers.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -44,7 +40,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
