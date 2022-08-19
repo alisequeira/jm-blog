@@ -12,11 +12,11 @@ const Footer = () => {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
+          {/* <img
             src={logo}
             alt="Kaldi"
             style={{ width: "14em", height: "10em" }}
-          />
+          /> */}
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
@@ -36,7 +36,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Openings
                       </Link>
                     </li>
                     <li>

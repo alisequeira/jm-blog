@@ -14,9 +14,9 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
+          {/* <Link to="/" className="navbar-item" title="Logo">
             <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
-          </Link>
+          </Link> */}
           {/* Hamburger menu */}
           <button
             className={`navbar-burger burger ${isActive && "is-active"}`}
@@ -40,7 +40,7 @@ const Navbar = () => {
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/products">
-              Products
+              Openings
             </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
