@@ -2,7 +2,7 @@
 templateKey: index-page
 title: We are Nicasource
 image: /img/webcam-backing04.png
-heading: Nicasource is awesome
+heading: Nicasource is the best!!
 subheading: We partner up to match the perfect talent to the right clients.
 mainpitch:
   title: Why us?
